@@ -22,3 +22,7 @@ Setup :
 Deployment :
 
     git push heroku master
+
+1. http://piquenique.herokuapp.com
+2. http://d2svtc8wj5w0di.cloudfront.net
+3. http://piquenique.quebecnumerique.com
