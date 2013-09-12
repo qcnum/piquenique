@@ -18,3 +18,7 @@ Setup :
 
     git remote add heroku git@heroku.com:piquenique.git
     heroku config:push
+
+Deployment :
+
+    git push heroku master
