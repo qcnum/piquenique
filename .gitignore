@@ -1,3 +1,4 @@
 .DS_Store
 css/*.css
 ._*
+node_modules/
