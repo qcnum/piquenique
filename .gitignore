@@ -1,7 +1,3 @@
 .DS_Store
-.sass-cache
-web/assets/javascripts/*.js
-web/assets/stylesheets/*.css
-vendor/
+css/*.css
 ._*
-db/app.db
