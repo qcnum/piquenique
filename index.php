@@ -1,3 +1,4 @@
+<?php header('Cache-Control: s-maxage=315360000'); ?>
 <!doctype html>
 <html lang="fr">
 <head>
