@@ -4,9 +4,9 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    
+
 	<title>Le Pique-nique numérique</title>
-    
+
 	<meta name="description" content="Pique-nique numérique organisé par Québec Numérique, les 29 et 30 août 2013 à la Place de l’Université-du-Québec, St-Roch.">
 	<meta name="author" content="Capt'n - http://www.captn.ca">
 
@@ -16,11 +16,11 @@
 	<meta property="og:description" content="Pique-nique numérique organisé par Québec Numérique, les 29 et 30 août 2013 à la Place de l’Université-du-Québec, St-Roch.">
 
 	<link rel="shortcut icon" href="http://piquenique.quebecnumerique.com/favicon.ico" />
-	
+
 	<link rel="stylesheet" type="text/css" href="css/style.css?v">
 
 	<script src="js/libs/modernizr-1.7.min.js"></script>
-	
+
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -33,10 +33,10 @@
 </head>
 
 <body>
-	
+
 	<header>
 		<div class="container">
-			
+
 			<h1>Pique-nique numérique 2013</h1>
 
 			<p>Une invitation à nourrir votre imaginaire des dernières innovations technologiques et numériques.</p>
@@ -56,7 +56,7 @@
 
 	<section id="icones">
 		<div class="container">
-			
+
 			<div><img src="img/icone-boissons.png" alt="Des boissons seront disponibles sur place"></div>
 			<div><img src="img/icone-nourriture.png" alt="De la nourriture sera disponible sur place"></div>
 			<div><img src="img/icone-exposants.png" alt="Plusieurs exposants seront sur place"></div>
@@ -80,7 +80,7 @@
 					<p>Parallèlement, battra son plein sur place un hackathon, une séance collective de développement de projets utilisant les données ouvertes.</p>
 					<p>En plus de vous y nourrir l’esprit, vous pourrez vous y rassasier puisqu’il sera possible sur place d’y consommer nourriture et rafraîchissements, question de profiter de la saison estivale et de rendre ce rassemblement des plus cordial.</p>
 				</div>
-				
+
 			</div>
 		</section>
 
@@ -91,7 +91,7 @@
 
 				<div class="row clearfix horaire">
 					<div class="col demi tfull">
-						
+
 						<h3>Jeudi le 29 août</h3>
 
 						<p><strong>9 h à 20 h</strong> <span>Site ouvert aux visites des exposants</span></p>
@@ -101,9 +101,9 @@
 
 					</div>
 					<div class="col demi tfull tforcetop">
-						
+
 						<h3>Vendredi le 30 août</h3>
-						
+
 						<p><strong>9 h à 16 h</strong> <span>Site ouvert aux visites des exposants et déroulement du hackathon Québec ouvert</span></p>
 						<p><strong>12 h à 13 h</strong> <span>Venez diner avec la délégation bordelaise</span></p>
 						<p><strong>16 h 30</strong> <span>Présentation des projets et remise des prix du hackathon Québec ouvert</span></p>
@@ -122,7 +122,7 @@
 
 				<div class="row clearfix">
 					<div class="col demi tfull">
-						
+
 						<ul>
 							<li><strong><a href="http://www.youtube.com/watch?v=Q2tBxGKFglg" target="_blank">Le projet Parallèle</a></strong> du Centre en imagerie numérique et médias interactifs (CIMMI).</li>
 							<li><strong>La fracture numérique</strong> mieux la comprendre pour l'enrayer efficacement en collaboration avec la <a href="http://www.ville.quebec.qc.ca/" target="_blank">Ville de Québec</a> et <a href="http://www.zapquebec.org/" target="_blank">ZAP Québec</a>.</li>
@@ -135,7 +135,7 @@
 					</div>
 
 					<div class="col demi tfull tforcetop">
-						
+
 						<ul>
 							<li><strong><a href="http://www.youtube.com/watch?v=52nCcLkhS6o&amp;feature=youtu.be" target="_blank">Migration numérique</a></strong> le projet de création artistique basé sur la numérisation 3D de Jean-Ambroise Vesac (Étudiant au doctorat sur mesure en art et culture numérique gagnant Relève étudiante aux OCTAS 2013).</li>
 							<li><strong>Les bornes d'interaction RFID</strong> <a href="http://connectngo.ca/" target="_blank">Connect&amp;Go</a>.</li>
@@ -180,7 +180,7 @@
 				<!-- Begin MailChimp Signup Form -->
 				<div id="mc_embed_signup">
 					<form action="http://quebecnumerique.us7.list-manage.com/subscribe/post?u=6e13c5c9b7e26599fb0ed84a3&amp;id=d6289a0752" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-						
+
 						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="votre courriel" required>
 						<input type="submit" value="Tenez-moi au courant!" name="subscribe" id="mc-embedded-subscribe" class="button">
 
@@ -189,21 +189,21 @@
 				<!--End mc_embed_signup-->
 
 				<h2>Communiquer avec nous</h2>
-				
+
 				<div class="liens">
 					<p><a href="https://docs.google.com/forms/d/1fRIf7BbtLTQi_AF68JwnTMKKjLefBQGsm6vR2kOt1B4/viewform" target="_blank" class="btn">Formulaire exposant</a></p>
 					<p><a href="mailto:info@quebecnumerique.com">info@quebecnumerique.com</a></p>
 				</div>
 			<?php endif; ?>
-				
+
 			</div>
 		</section>
-		
+
 	</div>
 
 	<footer>
 		<div class="container row clearfix">
-			
+
 			<div class="col full tfull center">
 				<h1>Organisateurs et partenaires</h1>
 			</div>
@@ -235,6 +235,6 @@
 	<script src="js/libs/dd_belatedpng.js"></script>
 	<script> DD_belatedPNG.fix('img');</script>
 	<![endif]-->
-	
+
 </body>
 </html>
