@@ -1,4 +1,8 @@
-<?php header('Cache-Control: s-maxage=315360000'); ?>
+<?php
+$last_modified_time = filemtime(__FILE__);
+header("Last-Modified: ".gmdate("D, d M Y H:i:s", $last_modified_time)." GMT");
+header('Cache-Control: s-maxage=315360000');
+?>
 <!doctype html>
 <html lang="fr">
 <head>
