@@ -8,7 +8,7 @@ No database, just PHP & less CSS :
 
 Running the application :
 
-    autoless css/less/ css/
+    ./node_modules/autoless/bin/autoless css/less/ css/
     php -S localhost:8000
 
 
